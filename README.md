@@ -1,38 +1,38 @@
-# Hello, World! 👋⚡
-
-I'm a passionate Data Scientist electrifying the energy efficiency domain! 🌱💡 With 2 years of Python prowess and a knack for real-time problem-solving, I'm here to make a difference.
-
 ## About Me
 
 - 🤖 Data Engineering Maestro
 - 🔍 Data Analysis Detective
 - 🎮 Reinforcement Learning Enthusiast
+- 🧠 Machine Learning Architect
+- 🤓 Deep Learning Specialist
 
 ## What I'm Working On
 
 - Reducing carbon footprints one dataset at a time 🌍
 - Optimizing energy usage with predictive analytics 🔮
 - Implementing smart grid technologies using AI 🤖
+- 🦾 Developing an Assistive Device for the Visually Impaired - Using transfer learning for obstacle detection and providing audio directions for navigation, along with image-to-text capabilities for reading text aloud.
 
 ## Technologies & Tools
 
 - Python 🐍
 - Pandas 🐼 & NumPy 🔢
 - TensorFlow 🧠 & PyTorch 🔥
+- Scikit-Learn ➕
+- Keras 🧬
 - SQL 🗃️ & NoSQL 📂
 - Docker 🐳 & Kubernetes ☸️
 
-## Projects
+## Featured Projects
 
 - 🌟 [Smart Energy Dashboard](#) - Visualizing energy consumption in real-time.
 - 🚀 [Renewable Resource Optimizer](#) - Maximizing efficiency in renewable energy sources.
 - 🧩 [Grid Load Balancer](#) - Using RL for demand-response strategies in power grids.
+- 👁️ [Assistive Device for the Blind](#https://github.com/Srisurya612/DeepLearning.git) - A DL project using transfer learning for obstacle detection and a voice guide for safe navigation, plus image-to-text conversion to aid in reading printed materials.
 
 ## Let's Connect!
 
-- LinkedIn: [YourLinkedIn](#)
-- Twitter: [YourTwitter](#)
-- Blog: [YourBlog](#)
+- LinkedIn: [https://www.linkedin.com/in/sri-surya-2844201a3/](#https://www.linkedin.com/in/sri-surya-2844201a3/)
 
 <!-- Replace with your actual URLs and add your actual GIFs instead of placeholders -->
 
@@ -42,7 +42,8 @@ I'm a passionate Data Scientist electrifying the energy efficiency domain! 🌱�
 
 ![Python Code Gif](#YourGifLink) *Check out this snippet of my latest Python solution in action!*
 
+![Deep Learning Project Gif](#YourGifLink) *A glimpse into the assistive technology I'm developing for the visually impaired.*
+
 ---
 
-> "In God we trust; all others bring data." - W. Edwards Deming
-
+> "In
