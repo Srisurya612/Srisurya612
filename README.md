@@ -28,11 +28,11 @@
 - 🌟 [Smart Energy Dashboard](#) - Visualizing energy consumption in real-time.
 - 🚀 [Renewable Resource Optimizer](#) - Maximizing efficiency in renewable energy sources.
 - 🧩 [Grid Load Balancer](#) - Using RL for demand-response strategies in power grids.
-- 👁️ [Assistive Device for the Blind](#https://github.com/Srisurya612/DeepLearning.git) - A DL project using transfer learning for obstacle detection and a voice guide for safe navigation, plus image-to-text conversion to aid in reading printed materials.
+- 👁️ [Assistive Device for the Blind](https://github.com/Srisurya612/DeepLearning.git) - A DL project using transfer learning for obstacle detection and a voice guide for safe navigation, plus image-to-text conversion to aid in reading printed materials.
 
 ## Let's Connect!
 
-- LinkedIn: [https://www.linkedin.com/in/sri-surya-2844201a3/](#https://www.linkedin.com/in/sri-surya-2844201a3/)
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/sri-surya-2844201a3/)
 
 <!-- Replace with your actual URLs and add your actual GIFs instead of placeholders -->
 
